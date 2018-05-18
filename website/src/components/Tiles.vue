@@ -75,7 +75,7 @@ $secondary-color: rgba(125, 112, 109, 100);
      }
 
      .box:hover .image {
-     opacity: 0.3;
+     opacity: 0.2;
      }
 
      .box:hover .overlay {

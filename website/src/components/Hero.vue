@@ -93,7 +93,7 @@ $tertiary-color: rgba(228, 219, 191, 100);
 
      .hero-body {
           margin: 50px 100px 50px 100px;
-          background-image: url("https://images.unsplash.com/photo-1522827489705-0616731a52a8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bc3136a9d7f722e99966b0559414aee7&auto=format&fit=crop&w=1354&q=80");
+          background-image: url("./src/static/chnai-studio-wedding-invitations-phnom-penh.jpg");
           // ./src/static/custom-stationary-phnom-penh.jpg //
           background-repeat: no-repeat center center fixed;
           background-size: cover;
